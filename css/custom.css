@@ -1,0 +1,35 @@
+h1,
+h2,
+h3 {
+	font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: 600;
+  color: #434343;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+h2 span {
+  color: #ff5b37;
+}
+
+.sec-title {
+  color: #434343;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+header {
+  padding: 220px 0;
+}
+
+.follow-us {
+  
+}
