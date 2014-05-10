@@ -1,7 +1,9 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
 h1,
 h2,
 h3 {
-	font-family: 'Open Sans', sans-serif;
   text-align: center;
 }
 
@@ -20,6 +22,7 @@ h2 span {
 }
 
 .sec-title {
+  margin-bottom: 40px;
   color: #434343;
   font-size: 18px;
   font-weight: 600;
@@ -30,6 +33,15 @@ header {
   padding: 220px 0;
 }
 
-.follow-us {
-  
+.follow-us p {
+  text-align: center;
+  font-size: 16px;
+}
+
+.follow-us a {
+  color: #333;
+}
+
+.follow-us p a:hover {
+  color: #ff5b37;
 }
