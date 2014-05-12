@@ -1,3 +1,7 @@
+body,
+html {
+  height: 100%;
+}
 body {
   font-family: 'Open Sans', sans-serif;
 }
@@ -30,11 +34,9 @@ h2 span {
 }
 
 header {
-  padding: 180px 0;
-}
-
-.follow-us {
-  padding-bottom: 40px;
+  display: flex;
+  min-height: 100%;
+  align-items: center;
 }
 
 .follow-us p {
